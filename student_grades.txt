@@ -1,0 +1,4 @@
+name,score1,score2,score3
+Alice Johnson,95.00,88.00,92.00
+Bob Smith,78.00,82.00,75.00
+Jamie Smith,65.00,98.00,75.00
